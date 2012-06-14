@@ -1,0 +1,5 @@
+Meta-analyst: Software for Meta-analysis of Binary, Continuous and Diagnostic Data
+The COPD Genetic Association Compendium: a Comprehensive Online Database of COPD Genetic Associations
+Single cell time resolved quorum responses reveal dependence on cell density and configuration
+Who Should Label What? Instance Allocation in Multiple Expert Active Learning
+Semi-automated Screening of Biomedical Citations for Systematic Reviews

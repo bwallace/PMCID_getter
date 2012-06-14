@@ -1,0 +1,15 @@
+Percutaneous coronary interventions for non-acute coronary artery disease: a quantitative 20-year synopsis and a network meta-analysis.	PMC2967219
+Conducting quantitative synthesis when comparing medical interventions: AHRQ and the Effective Health Care Program.	no PMCID found
+Chapter 10: Deciding Whether to Complement a Systematic Review of Medical Tests with Decision Modeling.	PMC3364358
+Decision-analytic modeling to evaluate benefits and harms of medical tests: uses and limitations.	no PMCID found
+Towards Modernizing the Systematic Review Pipeline in Genetics: Efficient Updating via Data Mining.	no PMID found
+Concordance of randomized and nonrandomized studies was unrelated to translational patterns of two nutrient-disease associations.	no PMCID found
+Systematic review: Anti-epidermal growth factor receptor treatment effect modification by KRAS mutations in advanced colorectal cancer.	no PMCID found
+Semi-automated screening of biomedical citations for systematic reviews.	PMC2824679
+Meta-Analyst: software for meta-analysis of binary, continuous and diagnostic data.	PMC2795760
+Systematic review: charged-particle radiation therapy for cancer.	no PMCID found
+A method for the meta-analysis of mutually exclusive binary outcomes.	no PMCID found
+Decision analysis with Markov processes supports early surgery for large-angle infantile esotropia.	no PMCID found
+Discontinuation of Pneumocystis carinii prophylaxis in patients infected with human immunodeficiency virus: a meta-analysis and decision analysis.	no PMCID found
+The constrained weight space SVM: Learning with labeled features. International Conference on Machine Learning (ICML).	no PMID found
+Modeling annotation time to reduce workload in comparative effectiveness reviews.	no PMID found

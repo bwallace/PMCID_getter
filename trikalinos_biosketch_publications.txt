@@ -1,0 +1,15 @@
+Percutaneous coronary interventions for non-acute coronary artery disease: a quantitative 20-year synopsis and a network meta-analysis.
+Conducting quantitative synthesis when comparing medical interventions: AHRQ and the Effective Health Care Program.
+Chapter 10: Deciding Whether to Complement a Systematic Review of Medical Tests with Decision Modeling.
+Decision-analytic modeling to evaluate benefits and harms of medical tests: uses and limitations.
+Towards Modernizing the Systematic Review Pipeline in Genetics: Efficient Updating via Data Mining. 
+Concordance of randomized and nonrandomized studies was unrelated to translational patterns of two nutrient-disease associations.
+Systematic review: Anti-epidermal growth factor receptor treatment effect modification by KRAS mutations in advanced colorectal cancer.
+Semi-automated screening of biomedical citations for systematic reviews.
+Meta-Analyst: software for meta-analysis of binary, continuous and diagnostic data.
+Systematic review: charged-particle radiation therapy for cancer.
+A method for the meta-analysis of mutually exclusive binary outcomes.
+Decision analysis with Markov processes supports early surgery for large-angle infantile esotropia.
+Discontinuation of Pneumocystis carinii prophylaxis in patients infected with human immunodeficiency virus: a meta-analysis and decision analysis.
+The constrained weight space SVM: Learning with labeled features. International Conference on Machine Learning (ICML).
+Modeling annotation time to reduce workload in comparative effectiveness reviews.

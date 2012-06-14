@@ -1,0 +1,17 @@
+1.	BC Wallace, K Small, CE Brodley, J Lau and TA Trikalinos. Deploying an Interactive Machine Learning System in an Evidence-Based Practice Center. In Proc. of the ACM International Health Informatics Symposium (IHI), 2012: 819-824
+2.	BC Wallace, K Small, CE Brodley, J Lau, CH Schmid, L Bertram, C Lill, JT Cohen, and TA Trikalinos. Toward Modernizing the Systematic Review Pipeline in Genetics: Efficient Updating via Data Mining. Genetics in Medicine. 2012.
+3.	BC Wallace, IJ Dahabreh, TA Trikalinos, J Lau, P Trow, CH Schmid. Closing the Gap Between Methodologists and End-Users: R as a Computational Back-end. Journal of Statistical Software. In press, 2012.
+4.	CE Brodley, U Rebbapragada, K Small and BC Wallace. Challenges and Opportunities in Applied Machine Learning. Artificial Intelligence Magazine. 33 (1), 11-24. 2012.
+5.	BC Wallace, CH Schmid, J Lau and TA Trikalinos. Meta-analyst: Software for Meta-analysis of Binary, Continuous and Diagnostic Data. BMC Medical Research Methodology 9 (1), 80+. 2009.
+
+
+Additional publications within the past 10 years (in chronological order)
+1.	PJ Castaldi, MH Cho, M Cohn, F Langerman, S Moran, N Tarragona, H Moukhachen, R Venugopal, D Hasimja, E Kao, BC Wallace, CP Hersh, S Bagade, L Bertram, EK Silverman, TA Trikalinos. The COPD Genetic Association Compendium: a Comprehensive Online Database of COPD Genetic Associations. Human Molecular Genetics, 1;19(3):526-34. 2009.
+2.	K Small, BC Wallace, CE Brodley and TA Trikalinos. The Constrained Weight Space SVM: Learning with Ranked Features. In Proc. of the International Conference on Machine Learning (ICML), 2011. 
+3.	RD Whitaker, S Pember, BC Wallace, CE Brodley, and DR Walt. Single cell time resolved quorum responses reveal dependence on cell density and configuration. Journal of Biological Chemistry, 2011. 
+4.	BC Wallace, K Small, CE Brodley and TA Trikalinos. Class Imbalance, Redux. In Proc. of the International Conference on Data Mining (ICDM), 2011. 
+5.	BC Wallace, K Small, CE Brodley and TA Trikalinos. Who Should Label What? Instance Allocation in Multiple Expert Active Learning. In Proc. of the SIAM International Conference on Data Mining (SDM), 2011.
+6.	BC Wallace, TA Trikalinos, J Lau, CE Brodley and CH Schmid. Semi-automated Screening of Biomedical Citations for Systematic Reviews. BMC Bioinformatics, 11(1):55+, 2010.
+7.	BC Wallace, K Small, CE Brodley, J Lau and TA Trikalinos. Modeling Annotation Time to Reduce Workload in Comparative Effectiveness Reviews. In Proc. of the ACM International Health Informatics Symposium (IHI), 2010.
+8.	BC Wallace, K Small, CE Brodley and TA Trikalinos. Active Learning for Biomedical Citation Screening. In Proc. of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2010.
+9.	BC Wallace. Multiple Narrative Disentanglement: Unraveling Infinite Jest. In Proc. of the North American Association for Computational Linguistics (NAACL), in press, 2012.
